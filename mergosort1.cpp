@@ -68,7 +68,7 @@ void mergesort(int low, int high) { // Step 1
 }
 
 int main() {
-    input();  // Input the array
+    input();  // Input the 
     mergesort(0, n - 1);  // Call merge sort on the whole array
 
     // Print the final sorted array
