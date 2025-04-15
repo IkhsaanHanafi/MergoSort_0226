@@ -7,7 +7,7 @@ int n;
 
 void input() {
     while (true) {
-        cout << "nter the number of elements in the array: ";
+        cout << "Enter the number of elements in the array: ";
         cin >> n;
         if (n <= 20) break;
         else cout << "Please enter a number less than or equal to 20." << endl;
@@ -78,5 +78,5 @@ int main() {
     }
     cout << endl;
 
-    return 0;
+    return 
 }
